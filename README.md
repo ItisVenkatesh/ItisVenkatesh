@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Venkatesh 👋  
 
-<!--
-**ItisVenkatesh/ItisVenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎯 **Data Integration Lead** with 8+ years of experience in **Python, Snowflake, AWS Glue and PySpark**. Passionate about building scalable data solutions and optimizing workflows.  
 
-Here are some ideas to get you started:
+💡 Currently exploring **Scalable API development in Python** and **real-time data streaming with Kafka & PySpark**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **AWS Solution Architect Associate** certified.  
+
+---
+
+## 🛠️ Tech Stack  
+🔹 **Programming:** Python, SQL  
+🔹 **Big Data:** PySpark, Snowflake, Apache Airflow  
+🔹 **Cloud & DevOps:** AWS (Lambda, Glue, S3, EC2), Docker, Jenkins  
+🔹 **Data Streaming:** Kafka  
+🔹 **Version Control:** Git, Bitbucket  
+
+---
+
+## 📫 Let's Connect!  
+🔗 [LinkedIn](www.linkedin.com/in/venkatesh-shankar-10398773)
+
+---
+
+⚡ **Fun Fact:** I love solving complex data challenges and designing ETL pipelines! 🚀
