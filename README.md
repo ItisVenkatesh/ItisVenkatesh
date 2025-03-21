@@ -13,7 +13,7 @@
 🔹 **Programming:** Python, SQL  
 🔹 **Big Data:** PySpark, Snowflake, Apache Airflow  
 🔹 **Cloud & DevOps:** AWS (Lambda, Glue, S3, EC2), Docker, Jenkins  
-🔹 **Data Streaming:** Kafka  
+🔹 **Data Streaming:** Apache Kafka  
 🔹 **Version Control:** Git, Bitbucket  
 
 ---
