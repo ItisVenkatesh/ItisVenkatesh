@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 🎯 **Data Integration Lead** with 8+ years of experience in **Python, Snowflake, AWS Glue and PySpark**. Passionate about building scalable data solutions and optimizing workflows.  
 
-💡 Currently exploring **Scalable API development in Python**,**Streamlit**  and **real-time data streaming with Kafka & PySpark**.  
+💡 Currently exploring **Scalable API development in Python**, **Streamlit**  and **real-time data streaming with Kafka & PySpark**.  
 
 🎓 **AWS Solution Architect Associate** certified.  
 
